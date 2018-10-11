@@ -8,5 +8,8 @@
       "email": "tom.parker@gmail.com",
       "password": "qweasd"
     }
-  ]
+  ],
+  "login": {
+    "success": "true"
+  }
 }
