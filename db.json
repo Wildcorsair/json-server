@@ -1,4 +1,10 @@
 "users": [
-  "email": "john.doe@gmail.com"
-  "password": "qweasd"
+  {
+    "email": "john.doe@gmail.com",
+    "password": "qweasd"
+  },
+  {
+    "email": "tom.parker@gmail.com",
+    "password": "qweasd"
+  }
 ]
